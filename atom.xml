@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://fujiayuan.net</id>
+    <title>小源の印记</title>
+    <updated>2021-02-04T06:46:37.194Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://fujiayuan.net"/>
+    <link rel="self" href="http://fujiayuan.net/atom.xml"/>
+    <subtitle>这是小学生付家源的生活点滴</subtitle>
+    <logo>http://fujiayuan.net/images/avatar.png</logo>
+    <icon>http://fujiayuan.net/favicon.ico</icon>
+    <rights>All rights reserved 2021, 小源の印记</rights>
+    <entry>
+        <title type="html"><![CDATA[玲玲妖娆睡姿]]></title>
+        <id>http://fujiayuan.net/post/ling-ling-yao-rao-shui-zi/</id>
+        <link href="http://fujiayuan.net/post/ling-ling-yao-rao-shui-zi/">
+        </link>
+        <updated>2021-02-04T03:59:06.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://fullbin.github.io/post-images/1612411207977.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://fujiayuan.net/post-images/1612411207977.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻将牌算法压缩11]]></title>
+        <id>http://fujiayuan.net/post/ma-jiang-pai-suan-fa-ya-suo/</id>
+        <link href="http://fujiayuan.net/post/ma-jiang-pai-suan-fa-ya-suo/">
+        </link>
+        <updated>2020-03-06T23:19:49.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="http://fujiayuan.net/post-images/1609405453344.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>6个bit111<br>
+111111<br>
+0~63<br>
+&lt;=33的</p>
+<p>剩余牌数<br>
+是否流局<br>
+是否跟牌<br>
+当前玩家</p>
+<p>玩家各自数据======================<br>
+ID<br>
+手牌<br>
+亮牌<br>
+地牌<br>
+活牌<br>
+是否庄 1<br>
+是否擂主 1<br>
+显示吃 1<br>
+显示叉 1<br>
+显示杠 1<br>
+显示听 1<br>
+显示亮 1<br>
+显示胡 1<br>
+是否胡了 1<br>
+吃选项列表<br>
+暗杠选项列表<br>
+旋风杠列表<br>
+听牌列表<br>
+听牌可出列表<br>
+是否在线 1<br>
+是否听牌 1<br>
+是否自摸 1<br>
+是否点炮 1<br>
+是否点炮胡 1<br>
+是否刚开 1<br>
+是否流泪 1<br>
+胡牌张<br>
+是否刚刚排序</p>
+<p>0 = 0手牌<br>
+1 = 0</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[需要深入学习东西记录]]></title>
+        <id>http://fujiayuan.net/post/xu-yao-shen-ru-xue-xi-dong-xi-ji-lu/</id>
+        <link href="http://fujiayuan.net/post/xu-yao-shen-ru-xue-xi-dong-xi-ji-lu/">
+        </link>
+        <updated>2020-03-06T01:38:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>SASS<br>
+VUEX<br>
+mybatis plus<br>
+elementui</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>SASS<br>
+VUEX<br>
+mybatis plus<br>
+elementui</p>
+<!-- more -->
+<p>SASS<br>
+VUEX<br>
+mybatis plus<br>
+elementui</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hello第一篇博客]]></title>
+        <id>http://fujiayuan.net/post/di-yi-pian-bo-ke/</id>
+        <link href="http://fujiayuan.net/post/di-yi-pian-bo-ke/">
+        </link>
+        <updated>2020-03-05T05:23:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>😀以后我会把日记、照片放上来。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😀以后我会把日记、照片放上来。</p>
+<!-- more -->
+<p>😀以后我会把日记、照片放上来。希望大家关注我</p>
+]]></content>
+    </entry>
+</feed>
