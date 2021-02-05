@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://fujiayuan.net</id>
     <title>爱学习的小源宝</title>
-    <updated>2021-02-05T05:26:54.125Z</updated>
+    <updated>2021-02-05T05:28:22.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://fujiayuan.net"/>
     <link rel="self" href="http://fujiayuan.net/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="http://fujiayuan.net/post/zi-zhu-can-li-de-xiao-lian/">
         </link>
         <updated>2021-02-05T05:21:22.000Z</updated>
-        <summary type="html"><![CDATA[<video id="video" controls="" preload="none" poster="/face.mp4">
-<source id="mp4" src="/face.mp4" type="video/mp4">
-</video>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://fujiayuan.net/post-images/1612502892965.png" alt="" loading="lazy"></figure>
 ]]></summary>
-        <content type="html"><![CDATA[<video id="video" controls="" preload="none" poster="/face.mp4">
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://fujiayuan.net/post-images/1612502892965.png" alt="" loading="lazy"></figure>
+<!-- more -->
+<video id="video" controls="" preload="none" poster="/face.mp4">
 <source id="mp4" src="/face.mp4" type="video/mp4">
 </video>
 <!-- more -->
