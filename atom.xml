@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://fujiayuan.net</id>
     <title>小源の印记</title>
-    <updated>2021-02-05T01:21:49.226Z</updated>
+    <updated>2021-02-05T01:24:48.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://fujiayuan.net"/>
     <link rel="self" href="http://fujiayuan.net/atom.xml"/>
@@ -42,11 +42,11 @@
         <link href="http://fujiayuan.net/post/di-yi-pian-bo-ke/">
         </link>
         <updated>2020-03-05T05:23:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>😀以后我会把日记、照片放上来。</p>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://fujiayuan.net/post-images/1612488259159.jpg" alt="" loading="lazy"></figure>
 ]]></summary>
-        <content type="html"><![CDATA[<p>😀以后我会把日记、照片放上来。</p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://fujiayuan.net/post-images/1612488259159.jpg" alt="" loading="lazy"></figure>
 <!-- more -->
-<p>😀以后我会把日记、照片放上来。希望大家关注我</p>
+<p>希望大家关注我</p>
 <!-- more -->
 ]]></content>
     </entry>
